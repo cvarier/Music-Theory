@@ -1,5 +1,5 @@
 # Music-Theory
-This is a collection of notes that I've taken from my self-study of jazz music theory. 
+This is a collection of notes that I've taken from my self-study of music theory, primarily in jazz. 
 I've gleaned much of the content from online resources and one-on-one lessons taken with 
 professors/professionals. Some of the points that I make are through my own critical reflection of the content 
 and are based on my own ideas. I cannot guarantee that everything I present here is completely error-free, so please 
